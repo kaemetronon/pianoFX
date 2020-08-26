@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="450.0" prefWidth="750.0" style="-fx-background-color: #c0c5ce;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.company.controller.Controller">
+   <children>
+      <AnchorPane layoutX="40.0" layoutY="35.0" prefHeight="381.0" prefWidth="671.0">
+         <children>
+            <Button fx:id="c" alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" graphicTextGap="8.0" layoutX="115.0" layoutY="64.0" mnemonicParsing="false" prefHeight="253.0" prefWidth="63.0" style="-fx-background-color: white;" text="C" textAlignment="JUSTIFY" textOverrun="CENTER_WORD_ELLIPSIS">
+               <font>
+                  <Font name="Comic Sans MS Bold" size="25.0" />
+               </font>
+            </Button>
+            <Button fx:id="d" alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" graphicTextGap="8.0" layoutX="178.0" layoutY="64.0" mnemonicParsing="false" prefHeight="253.0" prefWidth="63.0" style="-fx-background-color: white;" text="D" textAlignment="JUSTIFY" textOverrun="CENTER_WORD_ELLIPSIS">
+               <font>
+                  <Font name="Comic Sans MS Bold" size="25.0" />
+               </font>
+            </Button>
+            <Button fx:id="e" alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" graphicTextGap="8.0" layoutX="241.0" layoutY="64.0" mnemonicParsing="false" prefHeight="253.0" prefWidth="63.0" style="-fx-background-color: white;" text="E" textAlignment="JUSTIFY" textOverrun="CENTER_WORD_ELLIPSIS">
+               <font>
+                  <Font name="Comic Sans MS Bold" size="25.0" />
+               </font>
+            </Button>
+            <Button fx:id="f" alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" graphicTextGap="8.0" layoutX="304.0" layoutY="64.0" mnemonicParsing="false" prefHeight="253.0" prefWidth="63.0" style="-fx-background-color: white;" text="F" textAlignment="JUSTIFY" textOverrun="CENTER_WORD_ELLIPSIS">
+               <font>
+                  <Font name="Comic Sans MS Bold" size="25.0" />
+               </font>
+            </Button>
+            <Button fx:id="g" alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" graphicTextGap="8.0" layoutX="367.0" layoutY="64.0" mnemonicParsing="false" prefHeight="253.0" prefWidth="63.0" style="-fx-background-color: white;" text="G" textAlignment="JUSTIFY" textOverrun="CENTER_WORD_ELLIPSIS">
+               <font>
+                  <Font name="Comic Sans MS Bold" size="25.0" />
+               </font>
+            </Button>
+            <Button fx:id="a" alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" graphicTextGap="8.0" layoutX="430.0" layoutY="64.0" mnemonicParsing="false" prefHeight="253.0" prefWidth="63.0" style="-fx-background-color: white;" text="A" textAlignment="JUSTIFY" textOverrun="CENTER_WORD_ELLIPSIS">
+               <font>
+                  <Font name="Comic Sans MS Bold" size="25.0" />
+               </font>
+            </Button>
+            <Button fx:id="b" alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" graphicTextGap="8.0" layoutX="493.0" layoutY="64.0" mnemonicParsing="false" prefHeight="253.0" prefWidth="63.0" style="-fx-background-color: white;" text="B" textAlignment="JUSTIFY" textOverrun="CENTER_WORD_ELLIPSIS">
+               <font>
+                  <Font name="Comic Sans MS Bold" size="25.0" />
+               </font>
+            </Button>
+            <Button fx:id="cShrp" alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" ellipsisString="C#" graphicTextGap="1.0" layoutX="153.0" layoutY="64.0" mnemonicParsing="false" prefHeight="151.0" prefWidth="50.0" style="-fx-background-color: #343d46;" text="C#" textAlignment="CENTER" textFill="#c0c5ce" textOverrun="CENTER_WORD_ELLIPSIS">
+               <font>
+                  <Font name="Comic Sans MS Bold" size="17.0" />
+               </font>
+            </Button>
+            <Button fx:id="dShrp" alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" ellipsisString="D#" graphicTextGap="1.0" layoutX="216.0" layoutY="64.0" mnemonicParsing="false" prefHeight="151.0" prefWidth="50.0" style="-fx-background-color: #343d46;" text="D#" textAlignment="CENTER" textFill="#c0c5ce" textOverrun="CENTER_WORD_ELLIPSIS">
+               <font>
+                  <Font name="Comic Sans MS Bold" size="17.0" />
+               </font>
+            </Button>
+            <Button fx:id="fShrp" alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" ellipsisString="F#" graphicTextGap="1.0" layoutX="342.0" layoutY="64.0" mnemonicParsing="false" prefHeight="151.0" prefWidth="50.0" style="-fx-background-color: #343d46;" text="F#" textAlignment="CENTER" textFill="#c0c5ce" textOverrun="CENTER_WORD_ELLIPSIS">
+               <font>
+                  <Font name="Comic Sans MS Bold" size="17.0" />
+               </font>
+            </Button>
+            <Button fx:id="gShrp" alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" ellipsisString="G#" graphicTextGap="1.0" layoutX="405.0" layoutY="64.0" mnemonicParsing="false" prefHeight="151.0" prefWidth="50.0" style="-fx-background-color: #343d46;" text="G#" textAlignment="CENTER" textFill="#c0c5ce" textOverrun="CENTER_WORD_ELLIPSIS">
+               <font>
+                  <Font name="Comic Sans MS Bold" size="17.0" />
+               </font>
+            </Button>
+            <Button fx:id="aShrp" alignment="BOTTOM_CENTER" contentDisplay="BOTTOM" ellipsisString="A#" graphicTextGap="1.0" layoutX="468.0" layoutY="64.0" mnemonicParsing="false" prefHeight="151.0" prefWidth="50.0" style="-fx-background-color: #343d46;" text="A#" textAlignment="CENTER" textFill="#c0c5ce" textOverrun="CENTER_WORD_ELLIPSIS">
+               <font>
+                  <Font name="Comic Sans MS Bold" size="17.0" />
+               </font>
+            </Button>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
